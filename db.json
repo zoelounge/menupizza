@@ -1,14 +1,53 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"pizzas": [
+		[{
+				"id": 1,
+				"name": "margherita",
+				"price": 8.99,
+				"image": "margherita",
+				"quantity": 0
+			},
+
+			{
+				"id": 2,
+				"name": "diavola",
+				"price": 9.99,
+				"image": "diavola",
+				"quantity": 0
+			},
+
+			{
+				"id": 3,
+				"name": "marinara",
+				"price": 9.99,
+				"image": "marinara",
+				"quantity": 0
+			},
+
+			{
+				"id": 4,
+				"name": "bottarga",
+				"price": 10.99,
+				"image": "bottarga",
+				"quantity": 0
+			},
+
+			{
+				"id": 5,
+				"name": "a frutti dinmare",
+				"price": 8.99,
+				"image": "fruttimare",
+				"quantity": 0
+			},
+
+			{
+				"id": 6,
+				"name": "boscaiola",
+				"price": 8.99,
+				"image": "boscaiola",
+				"quantity": 0
+			}
+		]
+	]
+
 }
