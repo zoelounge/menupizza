@@ -33,9 +33,9 @@
 
 		{
 			"id": 5,
-			"name": "a frutti dinmare",
+			"name": "Frutti di mare",
 			"price": 8.99,
-			"image": "fruttimare",
+			"image": "mare",
 			"quantity": 0
 		},
 
