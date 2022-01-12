@@ -3,7 +3,7 @@
 			"id": 1,
 			"name": "Margherita",
 			"price": 8.99,
-			"image": "https://github.com/zoelounge/menupizza/blob/main/images/margherita.png",
+			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/margherita.png",
 			"quantity": 0
 		},
 
@@ -11,7 +11,7 @@
 			"id": 2,
 			"name": "Diavola",
 			"price": 9.99,
-			"image": "https://github.com/zoelounge/menupizza/blob/main/images/margherita.png",
+			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/diavola.png",
 			"quantity": 0
 		},
 
@@ -19,7 +19,7 @@
 			"id": 3,
 			"name": "Marinara",
 			"price": 7.99,
-			"image": "https://github.com/zoelounge/menupizza/blob/main/images/margherita.png",
+			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/marinara.png",
 			"quantity": 0
 		},
 
@@ -27,7 +27,7 @@
 			"id": 4,
 			"name": "Bottarga",
 			"price": 10.99,
-			"image": "https://github.com/zoelounge/menupizza/blob/main/images/margherita.png",
+			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/bottarga.png",
 			"quantity": 0
 		},
 
@@ -35,7 +35,7 @@
 			"id": 5,
 			"name": "Frutti di mare",
 			"price": 11.99,
-			"image": "https://github.com/zoelounge/menupizza/blob/main/images/margherita.png",
+			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/mare.png",
 			"quantity": 0
 		}
 	]
