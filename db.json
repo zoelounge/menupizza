@@ -1,5 +1,5 @@
 {
-	"posts": [{
+	"pizzas": [{
 			"id": 1,
 			"name": "margherita",
 			"price": 8.99,
