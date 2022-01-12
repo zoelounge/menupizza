@@ -1,5 +1,5 @@
 {
-	"pizzas": [{
+	"cards": [{
 			"id": 1,
 			"name": "Margherita",
 			"price": 8.99,
