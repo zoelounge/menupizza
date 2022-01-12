@@ -18,7 +18,7 @@
 		{
 			"id": 3,
 			"name": "Marinara",
-			"price": 9.99,
+			"price": 7.99,
 			"image": "marinara",
 			"quantity": 0
 		},
@@ -34,7 +34,7 @@
 		{
 			"id": 5,
 			"name": "Frutti di mare",
-			"price": 8.99,
+			"price": 11.99,
 			"image": "mare",
 			"quantity": 0
 		}
