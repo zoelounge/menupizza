@@ -4,7 +4,9 @@
 			"name": "Margherita",
 			"price": 8.99,
 			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/margherita.png",
-			"quantity": 0
+			"quantity": 0,
+			"description": "Tra le pizze, la pizza margherita è quella più semplice e più amata; una fragrante pizza fatta in casa con pomodoro, mozzarella, olio e basilico."
+
 		},
 
 		{
@@ -12,7 +14,8 @@
 			"name": "Diavola",
 			"price": 9.99,
 			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/diavola.png",
-			"quantity": 0
+			"quantity": 0,
+			"description": "Tra le pizze, la pizza Diavola è quella più semplice e più amata; una fragrante pizza fatta in casa con pomodoro, mozzarella, olio e basilico."
 		},
 
 		{
@@ -20,7 +23,8 @@
 			"name": "Marinara",
 			"price": 7.99,
 			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/marinara.png",
-			"quantity": 0
+			"quantity": 0,
+			"description": "Tra le pizze, la pizza Marinara è quella più semplice e più amata; una fragrante pizza fatta in casa con pomodoro, mozzarella, olio e basilico."
 		},
 
 		{
@@ -28,7 +32,8 @@
 			"name": "Bottarga",
 			"price": 10.99,
 			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/bottarga.png",
-			"quantity": 0
+			"quantity": 0,
+			"description": "Tra le pizze, la pizza Bottarga è quella più semplice e più amata; una fragrante pizza fatta in casa con pomodoro, mozzarella, olio e basilico."
 		},
 
 		{
@@ -36,7 +41,8 @@
 			"name": "Frutti di mare",
 			"price": 11.99,
 			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/mare.png",
-			"quantity": 0
+			"quantity": 0,
+			"description": "Tra le pizze, la pizza Frutti di mare è quella più semplice e più amata; una fragrante pizza fatta in casa con pomodoro, mozzarella, olio e basilico."
 		}
 	]
 }
