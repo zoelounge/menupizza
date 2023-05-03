@@ -2,9 +2,7 @@
 	"project": [{
 			"id": 1,
 			"name": "MobileApp",
-			"price": 8.99,
 			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/mobileapp.png",
-			"quantity": 0,
 			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
 
 		},
@@ -12,36 +10,28 @@
 		{
 			"id": 2,
 			"name": "WebApp",
-			"price": 9.99,
 			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/webapp.png",
-			"quantity": 0,
 			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
 		},
 
 		{
 			"id": 3,
 			"name": "FlutterApp",
-			"price": 7.99,
 			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/flutterapp.png",
-			"quantity": 0,
 			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
 		},
 
 		{
 			"id": 4,
 			"name": "ReactApp",
-			"price": 10.99,
 			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/reactapp.png",
-			"quantity": 0,
 			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
 		},
 
 		{
 			"id": 5,
 			"name": "AngualrApp",
-			"price": 11.99,
 			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/angualrapp.png",
-			"quantity": 0,
 			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
 		}
 	]
