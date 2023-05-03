@@ -46,7 +46,7 @@
 		}
 	],
 	
-	"project": [
+	"projects": [
 		{
 			"id": 1,
 			"name": "MobileApp",
