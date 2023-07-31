@@ -101,19 +101,19 @@
         {
             "id": 1,
             "title": "Let there be rock!",
-            "image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/01.png",
+            "image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/01.jpg",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
         },
         {
             "id": 2,
             "title": "Rock is a model of life, it's not just sounds.",
-            "image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/02.png",
+            "image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/02.jpg",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
         },
         {
             "id": 3,
             "title": "Rock and roll is here to stay...",
-            "image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/03.png",
+            "image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/03.jpg",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
         }
     ]
