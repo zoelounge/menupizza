@@ -120,7 +120,7 @@
 	"asks": [
 	{
 		"id": 0,
-		"quiz": "Javascript è un linguaggio tipizzato?",
+		"quiz": "Typescript è un linguaggio tipizzato?",
 		"answers": ["NO", "SI", "Non so"],
 		"index_correct_answer": 1
 	},
