@@ -116,6 +116,25 @@
             "image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/03.jpg",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
         }
-    ]
+    ],
+	"asks": [{
+		"id": 0,
+		"quiz": "Javascript è un linguaggio tipizzato?",
+		"answers": ["NO", "SI", "Non so"],
+		"index_correct_answer": 1
+	},
+	{
+		"id": 1,
+		"quiz": "In Javascript una varaibile si indica con?",
+		"answers": ["const", "var", "Non so"],
+		"index_correct_answer": 0
+	},
+    	{
+		"id": 2,
+		"quiz": "Typescript è un super set di Javascript?",
+		"answers": ["NO", "SI", "Non so"],
+		"index_correct_answer": 1
+	},
+	]
 
 }
