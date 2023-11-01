@@ -1,0 +1,22 @@
+{
+	"asks": [
+    {
+			"id": 0,
+			"quiz": "Javascript è un linguaggio tipizzato?",
+			"answers": ["NO", "SI", "Non so"],
+			"index_correct_answer": 1
+		},
+		{
+			"id": 1,
+			"quiz": "In Javascript una varaibile si indica con?",
+			"answers": ["const", "var", "Non so"],
+			"index_correct_answer": 0
+		},
+    {
+			"id": 2,
+			"quiz": "Typescript è un super set di Javascript?",
+			"answers": ["NO", "SI", "Non so"],
+			"index_correct_answer": 1
+		},
+	]
+}
