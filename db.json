@@ -117,7 +117,8 @@
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
         }
     ],
-	"asks": [{
+	"asks": [
+	{
 		"id": 0,
 		"quiz": "Javascript è un linguaggio tipizzato?",
 		"answers": ["NO", "SI", "Non so"],
@@ -134,7 +135,7 @@
 		"quiz": "Typescript è un super set di Javascript?",
 		"answers": ["NO", "SI", "Non so"],
 		"index_correct_answer": 1
-	},
+	}
 	]
 
 }
