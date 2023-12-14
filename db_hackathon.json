@@ -1,1 +1,37 @@
+{
+"companies": [
+		{
+			"id": 1,
+			"target": "M2D",
+			"name": "M2D",
+			"image": "https://www.m2d.tech/wp-content/uploads/2023/12/m2d-logo-square.png",
+			"description": "M2D è una tech company che supporta i propri clienti nella trasformazione digitale, affiancandoli nella costruzione di un valore aggiunto basato su approcci data driven e tecnologie all’avanguardia."
 
+		},
+
+		{
+			"id": 2,
+			"target": "Agile",
+			"name": "Agile",
+			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/webapp.png",
+			"description": "Agile è un’azienda di progettazione e sviluppo software che realizza, gestisce e commercializza soluzioni applicative nell’ambito dei Sistemi Informativi Ospedalieri. Agile è anche una azienda di assistenza e consulenza progettuale strategica orientata allo sviluppo di prodotti e alla realizzazione di progetti in grado di traghettare le quotidiane attività in un futuro a portata di mano. Uno staff di ingegneri, progettisti ed analisti in grado di interpretare le esigenze di imprese e pubbliche amministrazioni lavora per definire processi e creare software intelligenti di semplice utilizzo e ad alto contenuto tecnologico."
+		},
+
+		{
+			"id": 3,
+			"target": "Keyover",
+			"name": "Keyover",
+			"image": "https://www.keyover.it/images/loghi/KeyoverLogo500x500.png",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
+		},
+
+		{
+			"id": 4,
+			"target": "Sviluppo Personale",
+			"name": "Sviluppo Personale",
+			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/reactapp.png",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
+		},
+	]
+  
+}
