@@ -13,7 +13,7 @@
 			"id": 2,
 			"target": ["Tecnologia", "Software", "Backend", "Frontend", "Sistemismo", "Medicina", "Sanità", "Pubblico", "Privato", "Reti", "Assistenza", "Sicurezza", "Ricerca", "Sviluppo"],
 			"name": "Agile",
-			"logo": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/webapp.png",
+			"logo": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/agile-logo-500x500.png",
 			"images": [],
 			"description": "Agile è un’azienda di progettazione e sviluppo software che realizza, gestisce e commercializza soluzioni applicative nell’ambito dei Sistemi Informativi Ospedalieri. Agile è anche una azienda di assistenza e consulenza progettuale strategica orientata allo sviluppo di prodotti e alla realizzazione di progetti in grado di traghettare le quotidiane attività in un futuro a portata di mano. Uno staff di ingegneri, progettisti ed analisti in grado di interpretare le esigenze di imprese e pubbliche amministrazioni lavora per definire processi e creare software intelligenti di semplice utilizzo e ad alto contenuto tecnologico."
 		},
@@ -31,7 +31,7 @@
 			"id": 4,
 			"target": ["Condivisione", "Consapevolezza", "Competenze", "Wiki", "Supporto", "Crescita", "Tutor", "Formazione", "Riflessioni"],
 			"name": "Sviluppo Personale",
-			"logo": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/reactapp.png",
+			"logo": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/sviluppo_personale.png",
 			"images": [],
 			"description": "Il reparto Sviluppo Personale in un azienda IT si dedica al perfezionamento e alla crescita professionale dei giovani sviluppatori. La sua missione è triplice: consolidare le competenze, aumentare la consapevolezza e promuovere la condivisione. Il fulcro di questo reparto è l espansione delle abilità tecniche e la padronanza delle tecnologie emergenti. Attraverso programmi di formazione su misura, si incoraggiano i giovani sviluppatori a perfezionare le loro competenze in programmazione, gestione di database, sviluppo di software e altre aree chiave dell informatica. I programmi includono workshop pratici, sessioni di mentoring con esperti del settore e l accesso a risorse didattiche aggiornate. L obiettivo è assicurare che ogni sviluppatore non solo padroneggi le competenze tecniche essenziali, ma sia anche in grado di adattarsi alle mutevoli esigenze del settore IT. In aggiunta alle competenze tecniche, il reparto si concentra sullo sviluppo personale e professionale. Ciò include il miglioramento delle capacità comunicative, la gestione del tempo e la leadership. Programmi specifici mirano a far acquisire ai giovani sviluppatori una migliore comprensione del loro ruolo all interno dell azienda e del settore, incoraggiando una maggiore consapevolezza del proprio potenziale e delle opportunità di carriera. Questo aspetto si concentra anche sulla salute mentale e sul benessere, offrendo supporto per la gestione dello stress e l equilibrio lavoro-vita personale. Il reparto incentiva una cultura aziendale basata sulla collaborazione e la condivisione di conoscenze. Ciò avviene attraverso progetti di squadra, sessioni di brainstorming e piattaforme di condivisione interna. L obiettivo è creare un ambiente in cui i giovani sviluppatori possano non solo imparare gli uni dagli altri, ma anche condividere le proprie idee e innovazioni. Questo approccio favorisce la costruzione di una comunità interna solida, dove la condivisione di esperienze e conoscenze diventa un valore aggiunto per tutti i membri del team."
 		}
