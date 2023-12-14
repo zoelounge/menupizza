@@ -6,9 +6,7 @@
 			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/margherita.png",
 			"quantity": 0,
 			"description": "Tra le pizze, la pizza margherita è quella più semplice e più amata; una fragrante pizza fatta in casa con pomodoro, mozzarella, olio e basilico."
-
 		},
-
 		{
 			"id": 2,
 			"name": "Diavola",
@@ -17,7 +15,6 @@
 			"quantity": 0,
 			"description": "Tra le pizze, la pizza Diavola è quella più semplice e più amata; una fragrante pizza fatta in casa con pomodoro, mozzarella, olio e basilico."
 		},
-
 		{
 			"id": 3,
 			"name": "Marinara",
@@ -26,7 +23,6 @@
 			"quantity": 0,
 			"description": "Tra le pizze, la pizza Marinara è quella più semplice e più amata; una fragrante pizza fatta in casa con pomodoro, mozzarella, olio e basilico."
 		},
-
 		{
 			"id": 4,
 			"name": "Bottarga",
@@ -35,7 +31,6 @@
 			"quantity": 0,
 			"description": "Tra le pizze, la pizza Bottarga è quella più semplice e più amata; una fragrante pizza fatta in casa con pomodoro, mozzarella, olio e basilico."
 		},
-
 		{
 			"id": 5,
 			"name": "Frutti di mare",
@@ -53,9 +48,7 @@
 			"name": "MobileApp",
 			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/mobileapp.png",
 			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
-
 		},
-
 		{
 			"id": 2,
 			"target": "portfolioModal2",
@@ -63,7 +56,6 @@
 			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/webapp.png",
 			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
 		},
-
 		{
 			"id": 3,
 			"target": "portfolioModal3",
@@ -71,7 +63,6 @@
 			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/flutterapp.png",
 			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
 		},
-
 		{
 			"id": 4,
 			"target": "portfolioModal4",
@@ -79,7 +70,6 @@
 			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/reactapp.png",
 			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
 		},
-
 		{
 			"id": 5,
 			"target": "portfolioModal5",
@@ -87,7 +77,6 @@
 			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/angularapp.png",
 			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
 		},
-
 		{
 			"id": 6,
 			"target": "portfolioModal6",
@@ -96,7 +85,6 @@
 			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
 		}
 	],
-	
 	 "dataLanding": [
         {
             "id": 1,
@@ -146,7 +134,6 @@
 			"images": ["https://www.m2d.tech/wp-content/uploads/2023/11/EMPro.png", "https://www.m2d.tech/wp-content/uploads/2022/03/ARP.png", "https://www.m2d.tech/wp-content/uploads/2022/03/AssetPRO_Dash.png", "https://www.m2d.tech/wp-content/uploads/2022/03/Acea.png"],
 			"description": "M2D è una tech company che supporta i propri clienti nella trasformazione digitale, affiancandoli nella costruzione di un valore aggiunto basato su approcci data driven e tecnologie all’avanguardia."
 		},
-
 		{
 			"id": 2,
 			"target": ["Tecnologia", "Software", "Backend", "Frontend", "Sistemismo", "Medicina", "Sanità", "Pubblico", "Privato", "Reti", "Assistenza", "Sicurezza", "Ricerca", "Sviluppo"],
@@ -155,7 +142,6 @@
 			"images": [],
 			"description": "Agile è un’azienda di progettazione e sviluppo software che realizza, gestisce e commercializza soluzioni applicative nell’ambito dei Sistemi Informativi Ospedalieri. Agile è anche una azienda di assistenza e consulenza progettuale strategica orientata allo sviluppo di prodotti e alla realizzazione di progetti in grado di traghettare le quotidiane attività in un futuro a portata di mano. Uno staff di ingegneri, progettisti ed analisti in grado di interpretare le esigenze di imprese e pubbliche amministrazioni lavora per definire processi e creare software intelligenti di semplice utilizzo e ad alto contenuto tecnologico."
 		},
-
 		{
 			"id": 3,
 			"target": ["keystudy", "keysolutions", "keytech", "keypeople", "opensource", "comunità", "partnership", "formazione continua", "curiosità", "nuove tecnologie", "crescita professionale", "welfare", "team building", "il comitato ludico", "aperitivo del venerdì"],
@@ -164,7 +150,6 @@
 			"images": ["https://www.erp-opensource.it/wp-content/uploads/2017/03/KEYOVER-2.jpg", "https://www.keyover.it/images/loghi/slide-01.jpg", "https://www.keyover.it/images/loghi/slide-03.jpg"],
 			"description": "Da 15 anni programmiamo il futuro dei nostri Clienti. Oggi siamo una realtà di professionisti ICT, ingegneri e consulenti con competenze multidisciplinari che opera sull intero  territorio nazionale. Proponiamo soluzioni informatiche, servizi tecnologici innovativi e consulenza in grado di valorizzare al meglio gli investimenti in IT negli ambiti della gestione aziendale, della cultura e promozione territoriale, della gestione di sistemi bibliotecari e dell Internet delle cose. Il dinamismo, la voglia di fare, la sinergia di competenze multidisciplinari e l esperienza consolidata ci consentono di realizzare soluzioni ‘chiavi in mano’ anche sulle esigenze più specifiche e settoriali dei nostri Clienti Studiamo i punti di forza e debolezza dei nostri clienti (Key Study). Progettiamo soluzioni su misura (Key Solutions). Sviluppiamo con tecnologie open e innovative (Key Tech) stimolando un percorso condiviso di crescita comune e continua (Key People). Ci confrontiamo con il cliente dalla fase di raccolta e razionalizzazione dei requisiti, alla progettazione, fino allo sviluppo di soluzioni coerenti con il sistema azienda e gli standard normativi e tecnologici al fine di raggiungere obiettivi ad alto valore aggiunto. Per soddisfare le esigenze di un mercato eterogeneo ed in continua evoluzione, puntiamo a diversificare le nostre competenze al fine di proporre consulenza sinergica e multidisciplinare"
 		},
-
 		{
 			"id": 4,
 			"target": ["Condivisione", "Consapevolezza", "Competenze", "Wiki", "Supporto", "Crescita", "Tutor", "Formazione", "Riflessioni"],
