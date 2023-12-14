@@ -19,7 +19,7 @@
 
 		{
 			"id": 3,
-			"target": "keystudy, keysolutions, keytech, keypeople, opensource, comunità, partnership, formazione continua, curiosità, nuove tecnologie, crescita professionale, welfare, team building, il comitato ludico, l’aperitivo del venerdì.",
+			"target": ["keystudy", "keysolutions", "keytech", "keypeople", "opensource", "comunità", "partnership", "formazione continua", "curiosità", "nuove tecnologie", "crescita professionale", "welfare", "team building", "il comitato ludico", "aperitivo del venerdì",
 			"name": "Keyover",
 			"image": "https://www.keyover.it/images/loghi/KeyoverLogo500x500.png",
 			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
@@ -27,7 +27,7 @@
 
 		{
 			"id": 4,
-			"target": "Condivisione, Consapevolezza ,Competenze ,Wiki, Supporto, Crescita, Tutor,  Formazione, Riflessioni",
+			"target": ["Condivisione", "Consapevolezza", "Competenze", "Wiki", "Supporto", "Crescita", "Tutor", "Formazione", "Riflessioni"],
 			"name": "Sviluppo Personale",
 			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/reactapp.png",
 			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
