@@ -136,6 +136,43 @@
 		"answers": ["NO", "SI", "Non so"],
 		"index_correct_answer": 1
 	}
+    ],
+	"companies": [
+		{
+			"id": 1,
+			"target": ["data", "energy", "ml", "ai", "welfare", "organizzazione flat", "flessibilità", "welcome kit", "copertura sanitaria", "open coffee", "challenging"],
+			"name": "M2D",
+			"logo": "https://www.m2d.tech/wp-content/uploads/2023/12/m2d-logo-square.png",
+			"images": ["https://www.m2d.tech/wp-content/uploads/2023/11/EMPro.png", "https://www.m2d.tech/wp-content/uploads/2022/03/ARP.png", "https://www.m2d.tech/wp-content/uploads/2022/03/AssetPRO_Dash.png", "https://www.m2d.tech/wp-content/uploads/2022/03/Acea.png"],
+			"description": "M2D è una tech company che supporta i propri clienti nella trasformazione digitale, affiancandoli nella costruzione di un valore aggiunto basato su approcci data driven e tecnologie all’avanguardia."
+		},
+
+		{
+			"id": 2,
+			"target": ["Tecnologia", "Software", "Backend", "Frontend", "Sistemismo", "Medicina", "Sanità", "Pubblico", "Privato", "Reti", "Assistenza", "Sicurezza", "Ricerca", "Sviluppo"],
+			"name": "Agile",
+			"logo": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/agile-logo-500x500.png",
+			"images": [],
+			"description": "Agile è un’azienda di progettazione e sviluppo software che realizza, gestisce e commercializza soluzioni applicative nell’ambito dei Sistemi Informativi Ospedalieri. Agile è anche una azienda di assistenza e consulenza progettuale strategica orientata allo sviluppo di prodotti e alla realizzazione di progetti in grado di traghettare le quotidiane attività in un futuro a portata di mano. Uno staff di ingegneri, progettisti ed analisti in grado di interpretare le esigenze di imprese e pubbliche amministrazioni lavora per definire processi e creare software intelligenti di semplice utilizzo e ad alto contenuto tecnologico."
+		},
+
+		{
+			"id": 3,
+			"target": ["keystudy", "keysolutions", "keytech", "keypeople", "opensource", "comunità", "partnership", "formazione continua", "curiosità", "nuove tecnologie", "crescita professionale", "welfare", "team building", "il comitato ludico", "aperitivo del venerdì"],
+			"name": "Keyover",
+			"logo": "https://www.keyover.it/images/loghi/KeyoverLogo500x500.png",
+			"images": ["https://www.erp-opensource.it/wp-content/uploads/2017/03/KEYOVER-2.jpg", "https://www.keyover.it/images/loghi/slide-01.jpg", "https://www.keyover.it/images/loghi/slide-03.jpg"],
+			"description": "Da 15 anni programmiamo il futuro dei nostri Clienti. Oggi siamo una realtà di professionisti ICT, ingegneri e consulenti con competenze multidisciplinari che opera sull intero  territorio nazionale. Proponiamo soluzioni informatiche, servizi tecnologici innovativi e consulenza in grado di valorizzare al meglio gli investimenti in IT negli ambiti della gestione aziendale, della cultura e promozione territoriale, della gestione di sistemi bibliotecari e dell Internet delle cose. Il dinamismo, la voglia di fare, la sinergia di competenze multidisciplinari e l esperienza consolidata ci consentono di realizzare soluzioni ‘chiavi in mano’ anche sulle esigenze più specifiche e settoriali dei nostri Clienti Studiamo i punti di forza e debolezza dei nostri clienti (Key Study). Progettiamo soluzioni su misura (Key Solutions). Sviluppiamo con tecnologie open e innovative (Key Tech) stimolando un percorso condiviso di crescita comune e continua (Key People). Ci confrontiamo con il cliente dalla fase di raccolta e razionalizzazione dei requisiti, alla progettazione, fino allo sviluppo di soluzioni coerenti con il sistema azienda e gli standard normativi e tecnologici al fine di raggiungere obiettivi ad alto valore aggiunto. Per soddisfare le esigenze di un mercato eterogeneo ed in continua evoluzione, puntiamo a diversificare le nostre competenze al fine di proporre consulenza sinergica e multidisciplinare"
+		},
+
+		{
+			"id": 4,
+			"target": ["Condivisione", "Consapevolezza", "Competenze", "Wiki", "Supporto", "Crescita", "Tutor", "Formazione", "Riflessioni"],
+			"name": "Sviluppo Personale",
+			"logo": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/sviluppo_personale.png",
+			"images": [],
+			"description": "Il reparto Sviluppo Personale in un azienda IT si dedica al perfezionamento e alla crescita professionale dei giovani sviluppatori. La sua missione è triplice: consolidare le competenze, aumentare la consapevolezza e promuovere la condivisione. Il fulcro di questo reparto è l espansione delle abilità tecniche e la padronanza delle tecnologie emergenti. Attraverso programmi di formazione su misura, si incoraggiano i giovani sviluppatori a perfezionare le loro competenze in programmazione, gestione di database, sviluppo di software e altre aree chiave dell informatica. I programmi includono workshop pratici, sessioni di mentoring con esperti del settore e l accesso a risorse didattiche aggiornate. L obiettivo è assicurare che ogni sviluppatore non solo padroneggi le competenze tecniche essenziali, ma sia anche in grado di adattarsi alle mutevoli esigenze del settore IT. In aggiunta alle competenze tecniche, il reparto si concentra sullo sviluppo personale e professionale. Ciò include il miglioramento delle capacità comunicative, la gestione del tempo e la leadership. Programmi specifici mirano a far acquisire ai giovani sviluppatori una migliore comprensione del loro ruolo all interno dell azienda e del settore, incoraggiando una maggiore consapevolezza del proprio potenziale e delle opportunità di carriera. Questo aspetto si concentra anche sulla salute mentale e sul benessere, offrendo supporto per la gestione dello stress e l equilibrio lavoro-vita personale. Il reparto incentiva una cultura aziendale basata sulla collaborazione e la condivisione di conoscenze. Ciò avviene attraverso progetti di squadra, sessioni di brainstorming e piattaforme di condivisione interna. L obiettivo è creare un ambiente in cui i giovani sviluppatori possano non solo imparare gli uni dagli altri, ma anche condividere le proprie idee e innovazioni. Questo approccio favorisce la costruzione di una comunità interna solida, dove la condivisione di esperienze e conoscenze diventa un valore aggiunto per tutti i membri del team."
+		}
 	]
 
 }
