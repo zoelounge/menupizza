@@ -33,9 +33,9 @@
 			"name": "AngualrApp",
 			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/angularapp.png",
 			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
-		}
+		},
 		{
-			"id": 5,
+			"id": 6,
 			"name": "AndroidApp",
 			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/androidapp.png",
 			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
