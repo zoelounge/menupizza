@@ -41,6 +41,48 @@
 			"name": "AndroidApp",
 			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/androidapp.png",
 			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
+		},
+		{
+			"id": 7,
+			"target": "portfolioModal6",
+			"name": "AndroidApp",
+			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/androidapp.png",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
+		},
+		{
+			"id": 8,
+			"target": "portfolioModal6",
+			"name": "AndroidApp",
+			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/androidapp.png",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
+		},
+		{
+			"id": 9,
+			"target": "portfolioModal6",
+			"name": "AndroidApp",
+			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/androidapp.png",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
+		},
+		{
+			"id": 10,
+			"target": "portfolioModal6",
+			"name": "AndroidApp",
+			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/androidapp.png",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
+		},
+		{
+			"id": 11,
+			"target": "portfolioModal6",
+			"name": "AndroidApp",
+			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/androidapp.png",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
+		},
+		{
+			"id": 12,
+			"target": "portfolioModal6",
+			"name": "AndroidApp",
+			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/androidapp.png",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
 		}
 	],
 	
