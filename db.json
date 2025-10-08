@@ -46,7 +46,7 @@
 			"id": 7,
 			"target": "portfolioModal7",
 			"name": "IonicApp",
-			"image": "https://ionicacademy.com/wp-content/uploads/2017/06/ionic-logo-portrait.png",
+			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/ionic.png",
 			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
 		},
 		{
@@ -74,7 +74,7 @@
 			"id": 11,
 			"target": "portfolioModal11",
 			"name": "JavaApp",
-			"image": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png",
+			"image": "https://raw.githubusercontent.com/zoelounge/menupizza/main/images/java.png",
 			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellat numquam recusandaeofficiis, unde, quaerat facilis, illum eveniet voluptatibus quibusdam error maiores. Suscipit quae adipisci ad incidunt, odit excepturi nobis!."
 		},
 		{
